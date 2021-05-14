@@ -1,0 +1,1352 @@
+country,age,sex
+USA,81,m
+USA,81,m
+China,71,m
+China,43,m
+Greece,78,f
+Greece,75,m
+India,25,m
+India,19,f
+India,13,m
+Poland,77,m
+Poland,77,m
+Australia,75,m
+Australia,75,m
+China,55,m
+China,55,m
+"France, USA",75,m
+"France, USA",59,m
+"France, USA",81,m
+"France, USA",69,m
+"France, USA",63,m
+"France, USA",56,m
+"France, USA",33,m
+"France, USA",70,f
+"France, USA",72,m
+"France, USA",63,m
+"France, USA",58,m
+"France, USA",80,m
+USA,28,m
+USA,28,m
+Brazil,51,f
+"USA, Saudi Arabia",65,m
+"USA, Saudi Arabia",68,m
+"USA, Saudi Arabia",63,m
+"USA, Saudi Arabia",52,m
+"USA, Saudi Arabia",56,f
+"USA, Saudi Arabia",53,m
+"USA, Saudi Arabia",80,f
+"USA, Saudi Arabia",65,f
+"USA, Saudi Arabia",86,m
+"USA, Saudi Arabia",70,m
+"USA, Saudi Arabia",48,m
+"USA, Saudi Arabia",21,m
+"USA, Saudi Arabia",19,f
+"USA, Saudi Arabia",62,m
+"USA, Saudi Arabia",66,f
+"USA, Saudi Arabia",50,f
+Turkey,20,f
+India,27,m
+South Korea,67,m
+South Korea,67,m
+USA,69,f
+USA,82,m
+USA,82,m
+USA,50,m
+USA,50,m
+USA,56,f
+USA,56,f
+USA,56,f
+USA,76,m
+USA,76,m
+India,64,m
+China,58,m
+USA,81,m
+USA,2,f
+USA,2,f
+Poland,70,m
+South Korea,43,f
+India,25,m
+India,19,f
+India,13,m
+South Korea,18,m
+South Korea,41,m
+South Korea,41,m
+South Korea,41,m
+Denmark,70,m
+Denmark,70,m
+USA,76,m
+Japan,62,m
+Japan,62,m
+USA,68,f
+USA,68,f
+USA,68,f
+USA,60,m
+China,26,f
+China,26,f
+Canada,75,f
+Canada,80,m
+Canada,76,m
+Turkey,38,f
+Taiwan,0.67,m
+USA,65,m
+Turkey,64,m
+Turkey,64,m
+Turkey,64,m
+Japan,79,m
+Japan,79,m
+UK,75,m
+USA,85,m
+South Korea,68,m
+"Mali, France",19,f
+Netherlands,58,f
+China,77,f
+China,62,m
+China,62,m
+Korea,45,m
+Korea,17,f
+Korea,18,m
+Korea,18,m
+Korea,22,m
+Korea,22,m
+"Rwanda, USA",29,f
+USA,21,f
+Italy,84,f
+Italy,84,f
+Italy,84,f
+Japan,15,m
+Netherlands,58,f
+Netherlands,58,f
+India,13,m
+India,13,m
+India,13,m
+"USA, Turkey",11,f
+USA,63,m
+USA,63,m
+China,20,m
+China,29,m
+China,29,m
+Spain,61,m
+Italy,64,m
+Italy,64,m
+Japan,67,m
+Japan,67,m
+China,26,m
+USA,64,m
+USA,64,m
+USA,68,m
+USA,68,m
+Australia,2.5,f
+Portugal,73,m
+Taiwan,61,m
+China,36,m
+"USA, France",61,m
+Italy,68,m
+USA,66,f
+USA,66,f
+Germany,32,m
+USA,56,m
+Japan,81,m
+South Korea,73,m
+USA,39,f
+China,41,m
+USA,54,m
+Japan,77,m
+USA,44,m
+USA,44,m
+USA,70,m
+UK,62,m
+USA,69,m
+USA,69,m
+USA,69,m
+The Netherlands,26,m
+Japan,78,m
+Japan,78,m
+Japan,74,m
+"Israel, USA",38,m
+"Israel, USA",23,f
+Brazil,68,f
+USA,71,m
+Japan,9,f
+USA,41,f
+Japan,68,m
+Australia,51,m
+Japan,69,m
+Japan,69,m
+South Korea,36,f
+South Korea,36,f
+South Korea,49,m
+South Korea,49,m
+South Korea,49,m
+China,48,m
+China,48,m
+China,79,m
+USA,13,f
+USA,15,m
+Portugal,74,m
+South Africa,22,f
+Japan,67,m
+USA,70,m
+USA,67,f
+Australia,86,m
+Australia,75,m
+Australia,75,m
+USA,65,f
+USA,65,f
+USA,65,f
+China,67,f
+China,81,m
+China,54,m
+China,50,f
+China,75,f
+China,40,f
+China,45,f
+China,34,f
+China,31,f
+China,28,f
+China,74,m
+China,68,m
+China,55,m
+China,68,m
+Japan,72,m
+Japan,55,m
+USA,60,m
+Spain,42,m
+Spain,42,m
+USA,64,m
+Japan,63,m
+China,5,f
+Italy,33,f
+Italy,33,f
+Italy,33,f
+Germany,66,m
+Germany,66,m
+South Korea,8,f
+South Korea,8,f
+Japan,67,m
+Japan,67,m
+US,67,f
+US,67,f
+US,67,f
+France,82,m
+France,82,m
+Italy,64,m
+"Taiwan, Japan",74,m
+Japan,45,m
+Japan,45,m
+Spain,15,m
+Japan,57,m
+Japan,57,m
+Japan,65,m
+Poland,78,m
+Poland,78,m
+USA,71,m
+Poland,6,m
+Poland,6,m
+USA,75,m
+USA,75,m
+USA,67,m
+Japan,80,m
+Japan,80,m
+Japan,80,m
+"USA, Netherlands, France",87,m
+Germany,15,m
+China,37,f
+USA,65,f
+Italy,82,m
+New Zealand,79,m
+New Zealand,79,m
+USA,76,m
+China,34,m
+Japan,56,m
+China,13,m
+China,13,m
+China,13,m
+India,6,f
+South Korea,19,f
+Taiwan,39,f
+Spain,81,f
+Spain,81,f
+USA,63,m
+USA,63,m
+USA,64,m
+USA,8,m
+USA,8,m
+USA,69,f
+USA,69,f
+USA,69,f
+Australia,67,m
+Australia,67,m
+USA,42,m
+Japan,75,m
+Japan,75,m
+Japan,82,f
+Japan,82,f
+USA,72,m
+UK,69,m
+Switzerland,77,m
+Switzerland,77,m
+USA,70,m
+USA,70,m
+USA,74,m
+Canada,9,m
+Canada,9,m
+"USA, Thailand",62,f
+"USA, Thailand",62,f
+France,60,m
+Taiwan,0.008,m
+India,34,m
+Germany,36,m
+USA,8,m
+USA,8,m
+Spain,72,m
+China,43,m
+Germany,79,m
+Japan,7,f
+Japan,69,m
+Japan,86,m
+Japan,86,m
+Italy,83,m
+Japan,5,f
+Japan,5,f
+China,44,m
+China,67,f
+China,67,f
+Japan,87,f
+Germany,79,m
+Canada,6,f
+Japan,81,m
+France,81,m
+France,78,f
+Japan,34,m
+Spain,75,m
+Spain,70,m
+China,36,m
+China,51,m
+UK,69,m
+UK,69,m
+UK,73,m
+Hungary,75,m
+Hungary,69,f
+Japan,50,f
+Japan,50,f
+Japan,67,m
+Japan,67,m
+Mexico,73,m
+Mexico,73,m
+USA,46,m
+USA,78,f
+USA,47,m
+USA,47,m
+USA,35,m
+USA,80,m
+USA,80,m
+USA,80,m
+USA,80,m
+USA,6,m
+USA,6,m
+USA,2,f
+USA,81,m
+USA,67,f
+USA,74,m
+USA,69,m
+USA,74,m
+USA,75,m
+USA,75,f
+USA,70,m
+USA,75,m
+USA,60,m
+USA,66,m
+USA,55,m
+USA,71,m
+China,7,f
+China,7,f
+China,7,f
+China,9,m
+China,9,m
+China,9,m
+South Korea,16,f
+South Korea,17,f
+South Korea,17,f
+Austria,49,f
+Austria,60,m
+Austria,64,f
+Austria,38,m
+Austria,56,m
+India,12,f
+India,17,f
+Japan,51,m
+Japan,86,m
+Japan,74,m
+India,15,f
+India,65,m
+India,65,m
+France,78,f
+France,82,m
+USA,65,m
+USA,65,m
+USA,62,m
+USA,78,m
+Iran,71,m
+Iran,61,m
+Iran,61,m
+Iran,57,m
+USA,48,m
+USA,16,f
+USA,77,f
+USA,10,f
+USA,12,f
+USA,15,f
+Switzerland,86,m
+Switzerland,87,m
+Switzerland,87,m
+Switzerland,71,m
+USA,28,m
+USA,59,f
+China,59,f
+China,68,m
+China,67,m
+France,89,f
+France,89,f
+France,84,m
+France,84,m
+France,53,f
+France,53,f
+France,88,f
+France,69,m
+France,60,m
+France,74,m
+Poland,72,f
+Poland,60,f
+Poland,63,f
+Poland,79,m
+Portugal,83,m
+Portugal,61,m
+Portugal,61,m
+Portugal,48,m
+Portugal,54,f
+Portugal,83,m
+Portugal,68,m
+Portugal,75,m
+Portugal,60,m
+Switzerland,37,f
+Switzerland,68,m
+Switzerland,57,f
+Switzerland,47,f
+Switzerland,86,m
+USA,73,m
+USA,73,m
+USA,83,m
+USA,73,m
+USA,73,m
+USA,37,m
+USA,37,m
+USA,35,m
+USA,35,m
+USA,74,m
+USA,74,m
+South Korea,18,f
+South Korea,17,f
+South Korea,28,m
+South Korea,39,m
+South Korea,61,f
+South Korea,47,f
+Germany,63,m
+Germany,66,m
+Germany,72,f
+Germany,80,m
+Germany,69,m
+Germany,55,f
+South Korea,22,f
+South Korea,40,m
+South Korea,62,f
+South Korea,61,m
+South Korea,18,f
+South Korea,46,m
+South Korea,18,m
+USA,47,m
+USA,35,m
+USA,30,m
+USA,25,m
+USA,71,m
+USA,29,m
+USA,66,m
+France,77,m
+China,42,m
+Germany,66,f
+Turkey,86,m
+Turkey,73,f
+Turkey,71,m
+Turkey,59,m
+Turkey,73,m
+Turkey,57,m
+Turkey,40,m
+Turkey,11,m
+Germany,22,f
+Germany,62,f
+Germany,66,m
+Germany,79,m
+Germany,72,m
+Germany,69,m
+Germany,68,m
+Germany,63,f
+Germany,66,m
+USA,9,f
+USA,84,m
+USA,83,m
+USA,68,m
+USA,9,m
+USA,4,f
+USA,10,m
+USA,15,f
+USA,7,f
+USA,12,f
+USA,7,m
+USA,8,m
+USA,9,m
+USA,8,m
+USA,8,m
+USA,6,f
+USA,14,m
+USA,17,m
+USA,17,f
+USA,17,f
+USA,8,m
+USA,15,m
+USA,8,f
+USA,14,m
+USA,8,m
+USA,16,f
+USA,7,m
+USA,6,f
+USA,0.66,m
+USA,14,f
+USA,5,m
+USA,9,f
+USA,17,f
+USA,87,m
+USA,87,m
+"Netherlands, UK, Italy",30,f
+"Netherlands, UK, Italy",2,f
+"Netherlands, UK, Italy",68,f
+"Netherlands, UK, Italy",60,m
+"Netherlands, UK, Italy",66,m
+"Netherlands, UK, Italy",79,f
+"Netherlands, UK, Italy",84,m
+"Netherlands, UK, Italy",35,m
+"Netherlands, UK, Italy",65,m
+"Netherlands, UK, Italy",65,m
+Italy,66,m
+Italy,31,f
+Italy,74,m
+Greece,29,m
+Chile,74,m
+China,10,f
+China,21,m
+Mexico,36,m
+Mexico,75,m
+"Switzerland, Germany, UK, Italy, USA, Netherlands",73,m
+"Switzerland, Germany, UK, Italy, USA, Netherlands",86,m
+"Switzerland, Germany, UK, Italy, USA, Netherlands",83,m
+"Switzerland, Germany, UK, Italy, USA, Netherlands",82,m
+"Switzerland, Germany, UK, Italy, USA, Netherlands",85,m
+"Switzerland, Germany, UK, Italy, USA, Netherlands",60,f
+"Switzerland, Germany, UK, Italy, USA, Netherlands",76,m
+"Switzerland, Germany, UK, Italy, USA, Netherlands",35,m
+"Switzerland, Germany, UK, Italy, USA, Netherlands",81,f
+"Switzerland, Germany, UK, Italy, USA, Netherlands",41,m
+"Switzerland, Germany, UK, Italy, USA, Netherlands",47,f
+Italy,37,m
+Italy,37,m
+USA,68,m
+Portugal,4,f
+Japan,64,m
+Japan,64,m
+Japan,64,m
+Norway,10,m
+Malaysia,79,f
+"Italy, USA, Canada, Austria",9,f
+"Italy, USA, Canada, Austria",89,m
+"Italy, USA, Canada, Austria",19,m
+"Italy, USA, Canada, Austria",67,m
+"Italy, USA, Canada, Austria",62,m
+"Italy, USA, Canada, Austria",66,f
+"Italy, USA, Canada, Austria",29,m
+"Italy, USA, Canada, Austria",60,m
+"Italy, USA, Canada, Austria",78,m
+"Italy, USA, Canada, Austria",49,f
+"Italy, USA, Canada, Austria",73,f
+"Italy, USA, Canada, Austria",75,m
+"Italy, USA, Canada, Austria",69,m
+"Italy, USA, Canada, Austria",37,m
+USA,73,m
+USA,78,m
+USA,29,m
+USA,23,f
+USA,78,m
+USA,89,f
+USA,70,m
+USA,77,m
+USA,83,m
+USA,37,m
+USA,58,m
+USA,11,m
+France,76,m
+France,8,m
+France,86,f
+France,81,f
+France,68,f
+France,69,m
+France,75,m
+France,72,m
+France,6,f
+France,55,m
+France,79,m
+France,14,m
+France,74,m
+France,74,f
+France,67,m
+France,75,f
+France,60,m
+France,82,m
+France,56,m
+France,67,m
+France,70,m
+France,28,m
+France,29,m
+Italy,73,f
+Italy,63,f
+Italy,60,m
+Italy,60,m
+Italy,63,m
+Italy,71,m
+Italy,67,m
+Italy,61,m
+Italy,70,f
+Italy,81,m
+Italy,60,m
+Italy,39,m
+Italy,48,m
+France,26,m
+France,69,m
+France,54,f
+France,78,m
+France,74,m
+France,64,f
+France,56,m
+France,72,m
+France,64,f
+France,70,m
+France,74,m
+France,59,m
+France,55,m
+"Austria, Italy",65,m
+"Austria, Italy",73,m
+"Austria, Italy",74,m
+"Austria, Italy",58,f
+"Austria, Italy",76,m
+"Austria, Italy",89,m
+"Austria, Italy",77,m
+"Austria, Italy",84,m
+"Austria, Italy",50,m
+"Austria, Italy",38,m
+"Austria, Italy",42,m
+"Austria, Italy",87,m
+"Austria, Italy",80,m
+"Austria, Italy",57,m
+Canada,78,m
+Canada,82,m
+Canada,84,m
+France,86,f
+France,38,m
+France,67,f
+France,84,m
+France,65,f
+France,49,f
+France,37,m
+France,8,m
+France,62,m
+France,72,m
+France,33,f
+France,77,m
+France,64,m
+France,88,f
+Greece,80,m
+Greece,74,m
+Greece,73,m
+Greece,31,m
+Greece,67,m
+Greece,57,m
+Greece,60,m
+Greece,80,m
+Greece,72,f
+Greece,34,f
+Greece,17,f
+Greece,77,f
+Greece,90,m
+Greece,17,m
+Greece,76,m
+Greece,60,f
+Greece,74,m
+Greece,83,m
+Greece,81,f
+Greece,74,m
+Greece,67,m
+Greece,76,m
+Greece,84,f
+Greece,77,m
+Greece,63,f
+Greece,90,m
+Italy,8,m
+India,25,m
+USA,60,m
+Turkey,16,m
+USA,65,m
+USA,65,m
+USA,65,m
+Spain,29,m
+Spain,66,m
+USA,81,f
+USA,82,m
+USA,79,m
+USA,58,m
+Czech Republic,18,f
+Czech Republic,35,f
+Czech Republic,5,m
+Czech Republic,8,f
+Czech Republic,16,m
+Czech Republic,68,f
+Czech Republic,51,m
+Czech Republic,34,m
+Czech Republic,52,m
+Czech Republic,43,m
+Czech Republic,56,m
+Czech Republic,68,m
+Czech Republic,22,m
+Czech Republic,64,m
+France,74,m
+France,59,m
+France,78,m
+France,85,m
+France,83,m
+France,69,m
+France,11,f
+France,8,m
+France,82,f
+France,70,m
+France,79,m
+France,51,m
+France,22,m
+France,82,m
+France,15,m
+France,38,m
+France,12,f
+France,60,m
+France,66,m
+France,79,m
+France,81,m
+USA,48,f
+USA,68,f
+China,25,m
+China,55,m
+Spain,11,m
+Spain,58,m
+Spain,60,m
+Spain,16,m
+Spain,67,m
+Spain,57,f
+Spain,78,m
+Spain,75,m
+Spain,67,m
+Spain,71,m
+Spain,73,m
+Spain,79,f
+Spain,66,m
+Spain,63,m
+Spain,76,m
+Spain,70,m
+Spain,10,m
+Spain,34,f
+Spain,81,m
+Spain,81,m
+Spain,78,m
+Spain,64,m
+Spain,72,m
+Spain,71,m
+Spain,79,m
+Spain,70,m
+Spain,54,f
+Spain,46,m
+Spain,52,m
+Spain,42,m
+Spain,45,f
+Spain,31,f
+Spain,12,m
+Spain,53,m
+Spain,8,m
+Spain,47,f
+"Italy, USA, Austria, Japan",12,f
+"Italy, USA, Austria, Japan",38,m
+"Italy, USA, Austria, Japan",30,m
+"Italy, USA, Austria, Japan",14,m
+"Italy, USA, Austria, Japan",69,m
+"Italy, USA, Austria, Japan",66,f
+"Italy, USA, Austria, Japan",63,m
+"Italy, USA, Austria, Japan",63,m
+"Italy, USA, Austria, Japan",19,m
+"Italy, USA, Austria, Japan",58,m
+"Italy, USA, Austria, Japan",62,m
+"Italy, USA, Austria, Japan",16,m
+"Italy, USA, Austria, Japan",38,m
+"Italy, USA, Austria, Japan",42,m
+"Italy, USA, Austria, Japan",41,m
+"Italy, USA, Austria, Japan",80,m
+"Italy, USA, Austria, Japan",63,m
+"Italy, USA, Austria, Japan",70,f
+"Italy, USA, Austria, Japan",58,m
+"Italy, USA, Austria, Japan",77,m
+"Italy, USA, Austria, Japan",89,m
+"Italy, USA, Austria, Japan",67,m
+"Italy, USA, Austria, Japan",73,m
+"Italy, USA, Austria, Japan",60,m
+"Italy, USA, Austria, Japan",36,m
+France,72,m
+France,71,f
+France,75,m
+France,84,m
+Spain,66,m
+Spain,68,m
+Spain,31,f
+Spain,14,m
+Spain,56,m
+Spain,71,m
+Spain,57,m
+Spain,64,m
+Spain,63,f
+Spain,28,f
+Spain,39,f
+Spain,41,f
+Spain,35,m
+Spain,74,m
+Spain,69,m
+Spain,62,m
+Spain,65,m
+Spain,29,f
+Spain,12,f
+Spain,76,m
+Spain,59,m
+Spain,43,f
+Spain,79,m
+Spain,45,f
+Spain,79,m
+Spain,61,m
+Spain,7,m
+Spain,80,m
+Spain,13,f
+France,56,m
+France,82,m
+France,81,m
+France,96,f
+France,77,m
+France,54,f
+France,33,f
+France,69,m
+France,8,m
+France,37,m
+France,67,f
+France,84,m
+France,62,m
+France,75,m
+France,64,m
+France,69,m
+France,70,f
+France,70,m
+France,88,f
+France,72,m
+France,65,f
+France,86,f
+France,49,f
+France,60,m
+France,56,m
+France,74,m
+France,77,m
+France,32,f
+France,64,m
+USA,80,m
+USA,72,m
+USA,55,f
+USA,53,m
+USA,65,m
+Japan,60,m
+Japan,17,f
+Japan,76,m
+Japan,70,f
+Japan,46,m
+Japan,57,m
+Japan,57,m
+Japan,59,f
+Japan,71,m
+Japan,72,m
+Japan,73,m
+Japan,74,m
+Japan,79,f
+Japan,84,f
+Japan,85,m
+Japan,85,m
+Japan,88,m
+Japan,72,f
+Japan,75,m
+Japan,14,m
+Japan,61,m
+Japan,73,m
+Japan,5,f
+Japan,15,f
+Japan,35,m
+Japan,57,m
+Japan,58,m
+Japan,60,m
+Japan,73,m
+Japan,90,f
+France,59,m
+France,59,m
+France,79,f
+France,79,f
+France,79,f
+France,60,f
+Italy,64,m
+Italy,83,m
+Italy,38,m
+Italy,67,f
+Italy,84,f
+Italy,64,m
+Italy,19,m
+Italy,62,m
+Italy,61,m
+Italy,83,m
+Italy,40,m
+Italy,60,m
+Italy,76,m
+Italy,9,f
+Italy,58,m
+Italy,79,m
+Italy,75,f
+Italy,39,f
+Italy,66,f
+Italy,64,m
+Italy,83,m
+France,59,m
+France,56,m
+France,54,m
+France,73,m
+France,65,f
+France,70,m
+France,59,m
+USA,60,m
+USA,3,f
+USA,66,m
+USA,55,m
+USA,71,m
+France,86,f
+France,67,f
+France,84,m
+France,65,f
+France,49,f
+France,37,m
+France,8,m
+France,62,m
+France,72,m
+France,33,f
+France,77,m
+France,64,m
+France,88,f
+France,69,m
+France,82,m
+France,69,m
+France,75,m
+France,81,m
+France,56,m
+France,54,f
+France,72,m
+France,70,m
+France,96,f
+France,70,f
+France,73,m
+France,63,f
+France,64,m
+France,81,f
+France,75,m
+France,60,f
+France,63,m
+France,25,m
+France,83,m
+France,68,m
+France,35,f
+France,76,m
+France,71,m
+France,60,m
+France,82,m
+France,42,f
+France,80,m
+France,82,f
+France,77,f
+France,35,m
+France,70,f
+France,84,m
+France,70,m
+France,75,m
+France,83,m
+France,35,m
+France,78,m
+France,38,m
+France,69,f
+France,86,f
+France,68,m
+France,65,m
+France,70,m
+France,58,m
+France,29,f
+France,80,m
+France,79,m
+France,79,m
+France,42,m
+France,63,f
+France,70,m
+France,61,m
+France,71,f
+France,80,m
+France,70,m
+France,57,m
+France,76,f
+France,103,m
+France,82,m
+France,67,m
+France,73,m
+France,88,f
+France,65,f
+France,78,f
+France,82,m
+France,29,m
+France,88,f
+France,81,m
+France,93,m
+France,74,m
+France,62,m
+France,84,m
+France,69,m
+France,50,m
+France,82,m
+France,9,f
+South Korea,69,m
+South Korea,52,m
+South Korea,79,m
+South Korea,18,m
+South Korea,79,m
+South Korea,40,f
+South Korea,41,m
+"France, Canada",86,f
+"France, Canada",67,f
+"France, Canada",84,m
+"France, Canada",65,f
+"France, Canada",49,f
+"France, Canada",37,m
+"France, Canada",8,m
+"France, Canada",62,m
+"France, Canada",72,m
+"France, Canada",33,f
+"France, Canada",77,m
+"France, Canada",64,m
+"France, Canada",88,f
+"France, Canada",69,m
+"France, Canada",82,m
+"France, Canada",69,m
+"France, Canada",75,m
+"France, Canada",81,m
+"France, Canada",56,m
+"France, Canada",54,f
+"France, Canada",72,m
+"France, Canada",70,m
+"France, Canada",96,f
+"France, Canada",70,f
+"France, Canada",73,m
+"France, Canada",63,f
+"France, Canada",64,m
+"France, Canada",81,f
+"France, Canada",75,m
+"France, Canada",60,f
+"France, Canada",63,m
+"France, Canada",25,m
+"France, Canada",83,m
+"France, Canada",68,m
+"France, Canada",35,f
+"France, Canada",76,m
+"France, Canada",71,m
+"France, Canada",60,m
+"France, Canada",82,m
+"France, Canada",25,f
+"France, Canada",80,m
+"France, Canada",82,f
+"France, Canada",77,f
+"France, Canada",56,f
+"France, Canada",61,f
+"France, Canada",70,f
+"France, Canada",84,m
+"France, Canada",70,m
+"France, Canada",75,m
+"France, Canada",83,m
+"France, Canada",35,m
+"France, Canada",78,m
+"France, Canada",38,m
+"France, Canada",69,f
+"France, Canada",86,f
+"France, Canada",68,m
+"France, Canada",88,m
+"France, Canada",65,m
+"France, Canada",70,m
+"France, Canada",58,m
+"France, Canada",29,f
+"France, Canada",80,m
+"France, Canada",79,m
+"France, Canada",79,m
+"France, Canada",42,m
+"France, Canada",63,f
+"France, Canada",70,m
+"France, Canada",61,m
+"France, Canada",78,f
+"France, Canada",80,m
+"France, Canada",70,m
+"France, Canada",57,m
+"France, Canada",76,f
+"France, Canada",103,m
+"France, Canada",82,m
+"France, Canada",67,m
+"France, Canada",73,m
+"France, Canada",88,f
+"France, Canada",65,f
+"France, Canada",78,f
+"France, Canada",82,m
+"France, Canada",29,m
+"France, Canada",88,f
+"France, Canada",81,m
+"France, Canada",93,m
+"France, Canada",74,m
+"France, Canada",62,m
+"France, Canada",84,m
+"France, Canada",69,m
+"France, Canada",50,m
+"France, Canada",64,f
+Italy,78,m
+Italy,75,m
+Italy,49,f
+Italy,64,m
+Italy,29,m
+Italy,84,m
+Netherlands,60,m
+Netherlands,74,m
+Netherlands,57,m
+Netherlands,68,f
+Italy,70,m
+Italy,83,m
+Italy,57,m
+Italy,41,m
+Italy,38,f
+Italy,83,m
+Italy,83,m
+Italy,61,m
+Italy,60,m
+Italy,75,m
+Italy,65,f
+Italy,67,f
+Italy,84,f
+Italy,69,m
+Italy,83,m
+USA,84,m
+USA,73,m
+USA,29,m
+USA,23,f
+USA,66,m
+USA,78,m
+USA,79,m
+USA,13,f
+USA,94,m
+USA,72,m
+USA,37,m
+USA,65,m
+USA,92,m
+USA,62,m
+USA,78,f
+USA,14,f
+USA,23,f
+USA,89,f
+USA,78,m
+USA,62,f
+USA,62,f
+Netherlands,67,f
+Netherlands,74,m
+Netherlands,60,m
+Netherlands,56,m
+Netherlands,7,m
+Netherlands,15,f
+Netherlands,41,f
+Netherlands,87,f
+Netherlands,71,m
+Netherlands,77,m
+Netherlands,76,m
+Netherlands,67,m
+Netherlands,76,m
+Netherlands,60,m
+Netherlands,74,m
+Netherlands,56,m
+"UK, Portugal",26,m
+Japan,75,m
+Belgium,72,m
+Belgium,72,m
+Japan,87,m
+Japan,87,m
+USA,45,f
+UK,77,f
+UK,73,f
+UK,61,m
+UK,67,m
+UK,60,m
+UK,80,m
+UK,51,m
+UK,75,m
+UK,78,f
+UK,80,m
+UK,78,m
+UK,45,f
+UK,58,m
+UK,71,m
+UK,72,m
+UK,30,m
+UK,31,m
+UK,57,m
+UK,68,f
+UK,12,f
+UK,25,f
+UK,77,m
+UK,35,f
+UK,80,m
+UK,96,f
+UK,73,m
+UK,76,m
+UK,54,f
+UK,71,m
+UK,63,m
+UK,8,m
+UK,64,m
+UK,84,m
+UK,60,f
+UK,83,m
+UK,75,m
+UK,25,m
+UK,70,f
+UK,88,f
+UK,72,m
+UK,52,m
+UK,63,f
+UK,24,m
+UK,62,f
+UK,65,m
+UK,71,m
+UK,34,m
+UK,55,m
+UK,64,m
+UK,70,m
+UK,77,m
+UK,64,f
+Japan,6,f
+Japan,5,m
+Japan,9,m
+Japan,5,f
+Japan,7,f
+Japan,49,m
+Japan,64,m
+Japan,73,m
+Japan,76,m
+Japan,79,m
+Japan,70,m
+Japan,80,m
+Japan,65,m
+Japan,79,m
+France,63,m
+France,71,m
+France,50,m
+France,57,m
+France,64,m
+USA,75,m
+USA,70,m
+USA,71,m
+USA,76,m
+USA,25,m
+USA,46,f
+USA,31,m
+USA,20,f
+USA,53,m
+USA,50,m
+USA,70,m
+USA,61,m
+USA,69,m
+USA,82,m
+USA,44,m
+USA,39,m
+USA,65,m
+USA,63,m
+USA,72,m
+USA,51,m
+USA,45,f
+USA,72,m
+USA,53,m
+USA,2,f
+USA,83,m
+USA,71,f
+USA,76,m
+USA,28,f
+USA,67,m
+USA,82,m
+USA,84,m
+USA,84,m
+USA,78,m
+USA,69,m
+USA,34,m
+USA,21,m
+USA,78,m
+USA,50,m
+USA,50,m
+Italy,64,m
+Italy,83,m
+Italy,38,m
+Italy,67,f
+Italy,84,f
+Italy,64,m
+Italy,19,m
+Italy,62,m
+Italy,61,m
+Italy,83,m
+Italy,40,m
+Italy,60,m
+Italy,76,m
+Italy,9,f
+Italy,58,m
+Italy,79,m
+Italy,75,f
+Italy,39,f
+Italy,66,f
+Italy,64,m
+Italy,83,m
+France,8,m
+France,69,m
+France,14,m
+France,28,m
+France,82,m
+France,67,m
+France,69,m
+France,78,m
+France,82,m
+France,82,m
+France,14,f
+France,75,f
+France,65,f
+France,51,m
+France,82,f
+France,85,m
